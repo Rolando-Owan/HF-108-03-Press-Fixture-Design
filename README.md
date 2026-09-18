@@ -2,7 +2,7 @@
 
 A custom-designed press fixture developed for knob assembly on the HF-108-03 module. The fixture uses a Destaco 630 press and an adjustable mounting system to provide accurate positioning and repeatable assembly.
 
-<img width="926" height="602" alt="image" src="https://github.com/user-attachments/assets/118c48b8-972d-4a03-935b-bfcb1c5548a8" />
+<img width="1555" height="1011" alt="image" src="https://github.com/user-attachments/assets/64459bea-512b-4fd8-85a3-984c3da889c4" />
 
 ---
 
