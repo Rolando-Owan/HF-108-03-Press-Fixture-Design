@@ -74,10 +74,9 @@ CAD/
 Drawings/
 │── Engineering drawings
 
-Documentation/
-│── Assembly instructions
-│── Setup documentation
-│── Visual aids
+STL/
+│── STL files
+│── 3D printing instructions
 
 Images/
 │── Project renders and photographs
